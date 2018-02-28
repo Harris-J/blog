@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title:  "Hello World"
+date:   2018-02-28
+categories: introduction
+tags: featured
 ---
 
 #Hello World
