@@ -4,4 +4,3 @@
 
 layout: home
 ---
-# The home page!
