@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-25 10:52:24 -0600
+title:  "UX journeys"
+date:   2018-05-25 11:52:24 -0600
 categories: jekyll update
 ---
 
