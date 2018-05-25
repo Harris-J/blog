@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+# A spot to store thoughts
