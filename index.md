@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# A spot to store thoughts
+## A spot to store thoughts
